@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['backwards_0',['Backwards',['../structpRC_1_1Backwards.html',1,'pRC::Backwards'],['../classpRC_1_1TensorTrain_1_1OperatorViews_1_1Backwards.html',1,'pRC::TensorTrain::OperatorViews::Backwards&lt; T, M, N, Ranks, V &gt;'],['../classpRC_1_1TensorTrain_1_1TensorViews_1_1Backwards.html',1,'pRC::TensorTrain::TensorViews::Backwards&lt; T, N, Ranks, V &gt;']]],
+  ['backwardsubstitution_1',['BackwardSubstitution',['../classpRC_1_1Solver_1_1BackwardSubstitution.html',1,'pRC::Solver']]],
+  ['barenvironment_2',['BarEnvironment',['../classBarEnvironment.html',1,'']]],
+  ['base_3',['Base',['../classBase.html',1,'Base'],['../classtesting_1_1internal_1_1Base.html',1,'testing::internal::Base']]],
+  ['bfgs_4',['BFGS',['../classpRC_1_1Optimizer_1_1BFGS.html',1,'pRC::Optimizer']]],
+  ['bfloat16_5',['BFloat16',['../classpRC_1_1BFloat16.html',1,'pRC']]],
+  ['big_6',['Big',['../structtesting_1_1gtest__printers__test_1_1Big.html',1,'testing::gtest_printers_test']]],
+  ['biggestintconvertible_7',['BiggestIntConvertible',['../classBiggestIntConvertible.html',1,'']]],
+  ['bind_8',['Bind',['../structtesting_1_1internal_1_1TemplateSel_1_1Bind.html',1,'testing::internal::TemplateSel']]],
+  ['block_9',['Block',['../structpRC_1_1Block.html',1,'pRC::Block&lt; Bs &gt;'],['../classpRC_1_1TensorViews_1_1Block.html',1,'pRC::TensorViews::Block&lt; T, N, B, V &gt;']]],
+  ['block_3c_20t_2c_20sizes_3c_20ns_2e_2e_2e_20_3e_2c_20sizes_3c_20bs_2e_2e_2e_20_3e_2c_20v_20_3e_10',['Block&lt; T, Sizes&lt; Ns... &gt;, Sizes&lt; Bs... &gt;, V &gt;',['../classpRC_1_1TensorViews_1_1Block_3_01T_00_01Sizes_3_01Ns_8_8_8_01_4_00_01Sizes_3_01Bs_8_8_8_01_4_00_01V_01_4.html',1,'pRC::TensorViews']]],
+  ['bool_11',['Bool',['../structBool.html',1,'']]],
+  ['boolresetter_12',['BoolResetter',['../classtesting_1_1gmock__more__actions__test_1_1BoolResetter.html',1,'testing::gmock_more_actions_test']]],
+  ['bracketing_13',['Bracketing',['../structpRC_1_1Optimizer_1_1LineSearch_1_1Bracketing.html',1,'pRC::Optimizer::LineSearch']]],
+  ['briefunittestresultprinter_14',['BriefUnitTestResultPrinter',['../classtesting_1_1internal_1_1BriefUnitTestResultPrinter.html',1,'testing::internal']]],
+  ['broadcast_15',['Broadcast',['../structpRC_1_1Broadcast.html',1,'pRC::Broadcast&lt; Bs &gt;'],['../classpRC_1_1TensorViews_1_1Broadcast.html',1,'pRC::TensorViews::Broadcast&lt; T, N, B, V &gt;']]],
+  ['broadcast_3c_20t_2c_20sizes_3c_20ns_2e_2e_2e_20_3e_2c_20sizes_3c_20bs_2e_2e_2e_20_3e_2c_20v_20_3e_16',['Broadcast&lt; T, Sizes&lt; Ns... &gt;, Sizes&lt; Bs... &gt;, V &gt;',['../classpRC_1_1TensorViews_1_1Broadcast_3_01T_00_01Sizes_3_01Ns_8_8_8_01_4_00_01Sizes_3_01Bs_8_8_8_01_4_00_01V_01_4.html',1,'pRC::TensorViews']]],
+  ['builtindefaultvalue_17',['BuiltInDefaultValue',['../classtesting_1_1internal_1_1BuiltInDefaultValue.html',1,'testing::internal']]],
+  ['builtindefaultvalue_3c_20const_20t_20_3e_18',['BuiltInDefaultValue&lt; const T &gt;',['../classtesting_1_1internal_1_1BuiltInDefaultValue_3_01const_01T_01_4.html',1,'testing::internal']]],
+  ['builtindefaultvalue_3c_20t_20_2a_20_3e_19',['BuiltInDefaultValue&lt; T * &gt;',['../classtesting_1_1internal_1_1BuiltInDefaultValue_3_01T_01_5_01_4.html',1,'testing::internal']]],
+  ['builtindefaultvaluegetter_20',['BuiltInDefaultValueGetter',['../structtesting_1_1internal_1_1BuiltInDefaultValueGetter.html',1,'testing::internal']]],
+  ['builtindefaultvaluegetter_3c_20t_2c_20false_20_3e_21',['BuiltInDefaultValueGetter&lt; T, false &gt;',['../structtesting_1_1internal_1_1BuiltInDefaultValueGetter_3_01T_00_01false_01_4.html',1,'testing::internal']]],
+  ['bymovewrapper_22',['ByMoveWrapper',['../structtesting_1_1internal_1_1ByMoveWrapper.html',1,'testing::internal']]]
+];
