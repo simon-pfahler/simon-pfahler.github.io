@@ -1,0 +1,10 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
+- title: Posters and Presentations
+  url: /posters_and_presentations/
+- title: Side projects
+  url: /side_projects/

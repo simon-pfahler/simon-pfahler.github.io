@@ -1,0 +1,9 @@
+# Author file
+
+Simon:
+  name: "Simon Pfahler"
+  bio: "PhD student in machine learning in theoretical physics"
+  avatar: "./assets/images/Simon.jpg"
+  website: "https://pfahler.online"
+  email: "simon@pfahler.online"
+  github: "simon-pfahler"
