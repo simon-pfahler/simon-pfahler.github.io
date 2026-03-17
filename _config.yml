@@ -14,12 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Run locally
-#theme: jekyll-theme-so-simple
-
 # Run on GitHub
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-# remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
 locale: en-US
 title: "Simon Pfahler"
@@ -97,4 +93,4 @@ footer_links:
     icon: fab fa-github
   - title: Google Scholar
     url: https://scholar.google.de/citations?user=E655Iw4AAAAJ&hl=de&oi=ao
-    icon: fab fa-google
+    icon: fab fa-google-scholar
