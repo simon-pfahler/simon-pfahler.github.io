@@ -94,3 +94,6 @@ footer_links:
   - title: Google Scholar
     url: https://scholar.google.de/citations?user=E655Iw4AAAAJ&hl=de&oi=ao
     icon: fab fa-google-scholar
+  - title: Email
+    url: mailto:simon@pfahler.online
+    icon: fas fa-solid fa-at 
