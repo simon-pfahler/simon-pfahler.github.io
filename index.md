@@ -18,4 +18,5 @@ Check out my newest paper:\
 
 # Highlighted projects
 - [Simulating color-vision deficiency](https://github.com/jolars/cvd)
+- [CVD-simulation generator](https://github.com/simon-pfahler/CVD-simulation-generator)
 - [Easy colorblind-safe typesetting in LaTeX: the colorblind package](https://github.com/simon-pfahler/colorblind)
