@@ -9,11 +9,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # Run locally
-#gem "jekyll", "~> 4.4.1"
-#gem "jekyll-theme-so-simple"
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-theme-so-simple"
 
 # Run on Github Pages
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
