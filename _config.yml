@@ -19,7 +19,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/light.css"
 locale: en-US
 title: "Simon Pfahler"
-description: "I work on machine learning in applications<br>ranging from theoretical phyics to bioinformatics.<br>Have fun exploring my publications, talks,<br>posters and other interesting projects!"
+description: "I work on machine learning in applications<br>ranging from theoretical physics to bioinformatics.<br>Have fun exploring my publications, talks,<br>posters and other interesting projects!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://simon-pfahler.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "./assets/images/Simon.jpg" # path of site logo, e.g. "/images/logo.png"
@@ -96,4 +96,4 @@ footer_links:
     icon: fab fa-google-scholar
   - title: Email
     url: mailto:simon@pfahler.online
-    icon: fas fa-solid fa-at 
+    icon: fas fa-solid fa-at

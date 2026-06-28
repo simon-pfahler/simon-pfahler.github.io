@@ -22,7 +22,7 @@ Have fun reading!
 - [Taming numerical imprecision by adapting the KL divergence to negative probabilities](https://link.springer.com/article/10.1007/s11222-024-10480-y)\
     Simon Pfahler, Peter Georg, Rudolf Schill, Maren Klever, Lars Grasedyck, Rainer Spang, Tilo Wettig\
     Stat. Comput. 34 (2024)\
-    also on [arXiv:2312.103021](https://arxiv.org/abs/2312.13021) [stat.CO] (2023)
+    also on [arXiv:2312.13021](https://arxiv.org/abs/2312.13021) [stat.CO] (2023)
 - [Modeling metastatic progression from cross-sectional cancer genomics data](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i140/7700849)\
     Kevin Rupp, Andreas Lösch, Y. Linda Hu, Chenxi Nie, Rudolf Schill, Maren Klever, Simon Pfahler, Lars Grasedyck, Tilo Wettig, Niko Beerenwinkel, Rainer Spang\
     Bioinformatics (2024)\
