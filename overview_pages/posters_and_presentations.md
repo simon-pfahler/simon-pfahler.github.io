@@ -9,6 +9,8 @@ I try to make my scientific work as reproducible and transparent as possible, so
 For archiving reasons, they are not updated, so if in doubt, always believe the newer information.
 Or even better, [ask me](mailto:simon@pfahler.online).
 
+
+Lattice 2026: [Machine-Learning-Accelerated Multigrid Setup for Lattice QCD Dirac Solves](../permanent/Lattice26/Lattice26.html)
 - HISKP seminar Bonn 2026: [Neural-network approaches for preconditioning the Dirac equation in lattice QCD](../permanent/Bonn2026/Bonn2026.html)
 - Lattice 2025: [A novel gauge-equivariant neural network architecture for preconditioners in lattice QCD](../permanent/LATTICE2025/LATTICE2025.html)
 - RECOMB 2025: [Exploiting weak modularity in cancer progression to infer large Mutual Hazard Networks](../permanent/RECOMB25/RECOMB25.html)

@@ -5,8 +5,8 @@ title: Highlights
 ---
 
 # Currently highlighted
-Check out the slides for my talk at the HISKP seminar in Bonn, 26.5.26: 
-[Neural-network approaches for preconditioning the Dirac equation in lattice QCD](../permanent/Bonn2026/Bonn2026.html)
+Check out my talk at the Lattice 2026 in Maryland, 27.07.2026: 
+[Machine-Learning-Accelerated Multigrid Setup for Lattice QCD Dirac Solves](../permanent/Lattice26/Lattice26.html)
 
 # Recent publications
 - [A novel gauge-equivariant neural-network architecture for preconditioners in lattice QCD](https://doi.org/10.22323/1.518.0027)\
