@@ -9,6 +9,9 @@ Here, you can find all of my publications (both published and preprints), sorted
 
 Have fun reading!
 
+- [Quantifying Uncertainty of Predictions from Cancer Progression Models](https://academic.oup.com/bioinformatics/article/42/8/btag526/8741438)
+    Yanren Linda Hu, Simon Pfahler, Andreas Lösch, Stefan Vocht, Stefan Hansch, Kevin Rupp, Niko Beerenwinkel, Tilo Wettig, Rudolf Schill, Rainer Spang
+    Bioinformatics (2026)
 - [A novel gauge-equivariant neural-network architecture for preconditioners in lattice QCD](https://doi.org/10.22323/1.518.0027)\
     Simon Pfahler, Daniel Knüttel, Christoph Lehner, Tilo Wettig\
     PoS Lattice 2025 (2026)

@@ -1,7 +1,7 @@
 ---
 layout: home
 author: Simon
-title: Highlights
+title: Hey there!
 ---
 
 # Currently highlighted
@@ -12,12 +12,12 @@ Check out my talk at the Lattice 2026 in Maryland, 27.07.2026:
 - [A novel gauge-equivariant neural-network architecture for preconditioners in lattice QCD](https://doi.org/10.22323/1.518.0027)\
     Simon Pfahler, Daniel Knüttel, Christoph Lehner, Tilo Wettig\
     PoS Lattice 2025 (2026)
-    also on [arXiv:2602.23840](https://doi.org/10.48550/arXiv.2602.23840) [hep-lat] (2026)
+    also on [arXiv:2602.23840](https://arxiv.org/abs/2602.23840) [hep-lat] (2026)
 - [A Scalable Framework for Pan-Cancer Tumor Evolution Analysis Enables Transfer of Progression Mechanisms Across Tumor Entities](https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1)\
     Simon Pfahler, Andreas Lösch, Y. Linda Hu, Rudolf Schill, Rainer Spang, Tilo Wettig\
     bioRxiv (2026)
 
-# Highlighted projects
+# Highlighted side projects
 - [Simulating color-vision deficiency](https://github.com/jolars/cvd)
 - [CVD-simulation generator](https://github.com/simon-pfahler/CVD-simulation-generator)
 - [Easy colorblind-safe typesetting in LaTeX: the colorblind package](https://github.com/simon-pfahler/colorblind)
