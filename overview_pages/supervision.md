@@ -10,9 +10,12 @@ Unless stated otherwise, I was primary day-to-day supervisor under Tilo Wettig.
 
 It's been a privilege to work with all of you!
 
-## 2026
+## In progress
+- **David Cyba**: Learning Low-Order Approximations to the Wilson-clover Quark Propagator in Lattice QCD (B.Sc.)
 - **Stephan Lermer**: Volume-Scaling of Gauge-Equivariant Preconditioners for the Discretized Laplace Equation (B.Sc., in progress)
 - **Jakob Weigl**: Distribution of Observation Times in the Cancer Progression Models MHN and oMHN (B.Sc., in progress)
+
+## 2026
 - **Maren Käfferlein**: The Analytic Structure of Machine-Learned Solvers and Preconditioners for the Dirac Equation (B.Sc.)
 - **Ludwig Wittmann**: Time scales in the MHN cancer model (Research project)
 
