@@ -9,11 +9,11 @@ Here, you can find all of my publications (both published and preprints), sorted
 
 Have fun reading!
 
-- [Learning Low-Order Approximations of the Quark Propagator in Lattice QCD](https://arxiv.org/abs/2610.06612)
-    Simon Pfahler, Maren Käfferlein, Daniel Knüttel, Christoph Lehner, Tilo Wettig
+- [Learning Low-Order Approximations of the Quark Propagator in Lattice QCD](https://arxiv.org/abs/2610.06612)\
+    Simon Pfahler, Maren Käfferlein, Daniel Knüttel, Christoph Lehner, Tilo Wettig\
     arXiv [hep-lat] (2026)
-- [Quantifying Uncertainty of Predictions from Cancer Progression Models](https://academic.oup.com/bioinformatics/article/42/8/btag526/8741438)
-    Yanren Linda Hu, Simon Pfahler, Andreas Lösch, Stefan Vocht, Stefan Hansch, Kevin Rupp, Niko Beerenwinkel, Tilo Wettig, Rudolf Schill, Rainer Spang
+- [Quantifying Uncertainty of Predictions from Cancer Progression Models](https://academic.oup.com/bioinformatics/article/42/8/btag526/8741438)\
+    Yanren Linda Hu, Simon Pfahler, Andreas Lösch, Stefan Vocht, Stefan Hansch, Kevin Rupp, Niko Beerenwinkel, Tilo Wettig, Rudolf Schill, Rainer Spang\
     Bioinformatics (2026)
 - [A novel gauge-equivariant neural-network architecture for preconditioners in lattice QCD](https://doi.org/10.22323/1.518.0027)\
     Simon Pfahler, Daniel Knüttel, Christoph Lehner, Tilo Wettig\
