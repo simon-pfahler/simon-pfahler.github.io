@@ -5,17 +5,16 @@ title: Hey there!
 ---
 
 # Currently highlighted
-Check out my talk at the Lattice 2026 in Maryland, 27.07.2026: 
-[Machine-Learning-Accelerated Multigrid Setup for Lattice QCD Dirac Solves](../permanent/Lattice26/Lattice26.html)
+Check out my latest preprint on learning analytic approximations of the quark propagator:
+[Learning Low-Order Approximations of the Quark Propagator in Lattice QCD](https://arxiv.org/abs/2610.06612)
 
 # Recent publications
-- [A novel gauge-equivariant neural-network architecture for preconditioners in lattice QCD](https://doi.org/10.22323/1.518.0027)\
-    Simon Pfahler, Daniel Knüttel, Christoph Lehner, Tilo Wettig\
-    PoS Lattice 2025 (2026)
-    also on [arXiv:2602.23840](https://arxiv.org/abs/2602.23840) [hep-lat] (2026)
-- [A Scalable Framework for Pan-Cancer Tumor Evolution Analysis Enables Transfer of Progression Mechanisms Across Tumor Entities](https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1)\
-    Simon Pfahler, Andreas Lösch, Y. Linda Hu, Rudolf Schill, Rainer Spang, Tilo Wettig\
-    bioRxiv (2026)
+- [Learning Low-Order Approximations of the Quark Propagator in Lattice QCD](https://arxiv.org/abs/2610.06612)
+    Simon Pfahler, Maren Käfferlein, Daniel Knüttel, Christoph Lehner, Tilo Wettig
+    arXiv [hep-lat] (2026)
+- [Quantifying Uncertainty of Predictions from Cancer Progression Models](https://academic.oup.com/bioinformatics/article/42/8/btag526/8741438)
+    Yanren Linda Hu, Simon Pfahler, Andreas Lösch, Stefan Vocht, Stefan Hansch, Kevin Rupp, Niko Beerenwinkel, Tilo Wettig, Rudolf Schill, Rainer Spang
+    Bioinformatics (2026)
 
 # Highlighted side projects
 - [Simulating color-vision deficiency](https://github.com/jolars/cvd)
